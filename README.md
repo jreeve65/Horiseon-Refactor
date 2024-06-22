@@ -2,8 +2,8 @@
 
 ## Description
 
-    Source code for a marketing consultant website I modified to use more descriptive semantic tags.
-I also introduced some elements that improved SEO and accessability functions.
+    Source code  I modified for a marketing consultant website to use more descriptive semantic tags. I also introduced some elements that improved SEO and accessability functions.
+
 
 
 ## Installation
