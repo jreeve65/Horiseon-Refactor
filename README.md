@@ -12,9 +12,8 @@ N/A
 ## Usage
     Intended to be a demo of improving source code structue and accessbility.
 ## Screen Shot
-![alt text](<Screenshot 2024-06-24 223612.png>)
-
-![alt text](<Screenshot 2024-06-24 223647.png>)
+![image](./assets/Screenshot%202024-06-24%20223612.png)
+![image](./assets/Screenshot%202024-06-24%20223647.png)
 ## Credits
 
 Source code Provided by EDX Coding Bootcamp and Instructional Staff.
